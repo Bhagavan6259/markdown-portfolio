@@ -7,3 +7,4 @@ _I love naruto_
 __This will also be bold__
 
 _You **can** combine them_
+_Make **Naruto** them_
